@@ -12,7 +12,7 @@ A comprehensive repository exploring, analysing the Iris data set and predicting
 * [Evaluation Metrics](#evaluation-metrics)
 * [Results](#results)
 * [Setup](#setup)
-* [Acknowledegment](#acknowledgement)
+* [Acknowledgement](#acknowledgement)
 
 ## General Overview
 
@@ -38,12 +38,13 @@ The project was executed using Google Colab.
 ## ML models used
 
 The predictive performance of the following six classifiers was assessed:
-* K-Nearest Neighbors (K-NN)
-* Logistic Regression
-* Naïve Bayes
 * Random Forest
 * Support Vector Machine (SVM)
 * Decision Tree
+* K-Nearest Neighbors (K-NN)
+* Logistic Regression
+* Gradient Boosting
+
 
 ## Evaluation Metrics
 
