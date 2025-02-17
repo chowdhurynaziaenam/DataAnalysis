@@ -1,15 +1,18 @@
 # Exploratory Data Analysis & Prediction on IRIS Dataset
 
+A comprehensive repository exploring, analysing the Iris data set and predicting the Iris flower species based on the given features.
+
 ## Table of Contents
 
-* General Overview
-* Project Structure
-* Environment
-* Packages used
-* ML models used
-* Evaluation Metrics
-* Result
-* Acknowledgement
+* [General overview](#general-overview)
+* [Project Structure](#project-structure)
+* [Environment](#environment)
+* [Libraries & Packages](#libraries-&-packages)
+* [ML models used](#ml-models-used)
+* [Evaluation Metrics](#evaluation-metrics)
+* [Results](#results)
+* [Setup](#setup)
+* [Acknowledegment](#acknowledgement)
 
 ## General Overview
 
@@ -24,7 +27,7 @@ This project contains two Python files:
 
 The project was executed using Google Colab.
 
-## Libraries & Packages Used
+## Libraries & Packages 
 
 * Seaborn: For data visualization
 * NumPy: For numerical operations
